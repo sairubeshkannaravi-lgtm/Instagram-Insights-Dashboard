@@ -69,13 +69,6 @@ Data was cleaned and transformed within **Power BI Power Query** before visualiz
 
 ---
 
-## 📁 GitHub Repository
-
-➡️ https://github.com/sairubeshkannaravi-lgtm/Instagram-Insights-Dashboard  
-
-
----
-
 ## 🌱 Future Enhancements
 
 - 🔗 Integration with live Instagram API data  
